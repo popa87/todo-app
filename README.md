@@ -21,3 +21,6 @@
 ```bash
 npm install
 npm run dev
+После запуска приложение будет доступно по адресу:
+
+http://localhost:5173/
